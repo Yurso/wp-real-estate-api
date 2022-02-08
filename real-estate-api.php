@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: Real Estate API
- * Plugin URI:  https://mehdinazari.com/how-to-create-hello-world-plugin-for-wordpress
+ * Plugin URI:  http://khos.ru
  * Description: This plugin provide an API for real estate
  * Version:     1.0.0
  * Author:      Yurso
