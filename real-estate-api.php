@@ -1,6 +1,6 @@
 <?php
 /**
- * Hello World
+ * Real Estate API
  *
  * @package     Real Estate API
  * @author      Yury Khomich
